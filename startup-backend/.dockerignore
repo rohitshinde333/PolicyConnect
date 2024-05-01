@@ -1,0 +1,19 @@
+# Exclude specific files and directories from the build context
+
+# Exclude the 'env' directory
+backend/
+
+# Exclude any .git directories
+.git/
+.gitignore
+
+# Exclude any .vscode directories
+.vscode/
+
+# Exclude any development or temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
