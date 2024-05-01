@@ -37,6 +37,9 @@ PolicyConnect aims to revolutionize citizen engagement in the democratic process
 - **Transparent Government:** Promotes transparency by allowing citizens to question policies and receive timely responses.
 - **Feedback Mechanism:** Provides a structured platform for government officials to gather valuable feedback through polls and discussions.
 
+
+![Use Case Diagram](policyConnectImg.jpg)
+
 To start the backend and frontend of PolicyConnect, follow these steps:
 
 ### Backend (Node.js & Express.js):
