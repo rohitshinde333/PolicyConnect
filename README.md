@@ -86,8 +86,8 @@ To start the backend and frontend of PolicyConnect, follow these steps:
 PolicyConnect is not just a platform; it is an effort towards a more participatory and informed democracy. We are confident that our innovative approach will revolutionize citizen engagement and contribute to building a just and equitable society. We look forward to the opportunity to bring PolicyConnect to life and make a lasting impact on transparent governance.
 
 ## Team
-- **Rohit Shinde**
-- **Harishri Vaidya**
+- **Rohit Shinde** (github.com/rohitshinde333)
+- **Harishri Vaidya** (github.com/Harishrirajendra)
 
 ## Institution
 - Indian Institute of Technology, Madras
