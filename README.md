@@ -4,7 +4,7 @@
 
 ## Project Overview
 PolicyConnect aims to revolutionize citizen engagement in the democratic process by creating a user-friendly platform for discussing, questioning, and understanding government policies. This social media-like platform encourages active participation, transparency, and collaboration between citizens and government officials. With features like Q&A forums, polls, and AI-driven tools for policy summarization (Simplifying legal language), PolicyConnect empowers citizens to make informed decisions and contribute to a just and equitable society.
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1K526-qu75A8ZsJdWItnvxkP-M4QFJPSS/view)
+[![Watch the video for demo]](https://drive.google.com/file/d/1K526-qu75A8ZsJdWItnvxkP-M4QFJPSS/view)
 
 ## Features
 - **Q&A Forums:** Provides users with a dedicated space to raise issues, ask questions, and engage in discussions related to government policies.
